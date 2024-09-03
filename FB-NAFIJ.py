@@ -207,7 +207,7 @@ def v3():
         print(logo)
         tl = str(len(user))
         print(' \033[1;33m[♥]  TOTAL IDS :\033[1;92m '+tl)
-       print(f"\033[1;33m[♥]  YOUR TERGET CRACK MENU:\033[1;92m {doamin}")
+        print(f"\033[1;33m[♥]  YOUR TERGET CRACK MENU:\033[1;92m {doamin}")
         print(' \033[1;33m[♥]  THE CRACK PROCESS HAS BEEN STARTED')
         print(' \033[1;33m[♥]  WAIT FOR IDS ')
         print(50*'_')
